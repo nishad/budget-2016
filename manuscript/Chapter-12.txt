@@ -87,7 +87,8 @@
 
 ## 2016-ലെ ധനകാര്യബില്ലിലെ വ്യവസ്ഥകൾ പുനഃസ്ഥാപിക്കൽ
 266) 13-ാം കേരള നിയമസഭയുടെ കാലാവധി കഴിഞ്ഞപ്പോൾ 2016-ലെ ധനകാര്യ ബില്ലിലെ വ്യവസ്ഥകൾ കാലഹരണപ്പെട്ടു. ബില്ലിലെ ചുവടെപ്പറയുന്ന വ്യവസ്ഥകൾ പുനഃസ്ഥാപിക്കുവാൻ ഞാൻ ഉദ്ദേശിക്കുന്നു.
-Clause 2 relating to Surcharge on Taxes Act,
+{latinfont}
+>Clause 2 relating to Surcharge on Taxes Act,
 Clause 4 relating to Kerala Court Fees and Suits Valuation Act, 
 Clause 6 relating to Luxury Tax Act, Clause 7 relating to Agricultural Income Tax Act, 
 With respect to KVAT Act I intend to restore — 
